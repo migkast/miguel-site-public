@@ -1,3 +1,5 @@
 AI engine marks from LobeHub Icons (MIT licensed): https://github.com/lobehub/lobe-icons
 Static SVG package: https://unpkg.com/@lobehub/icons-static-svg@latest/icons/
 OpenAI: openai.svg; Claude: claude-color.svg; Gemini: gemini-color.svg; Perplexity: perplexity-color.svg
+
+Google AI Mode uses the Google mark: https://unpkg.com/@lobehub/icons-static-svg@1.102.0/icons/google-color.svg
