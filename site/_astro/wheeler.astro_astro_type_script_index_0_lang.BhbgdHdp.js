@@ -1,0 +1,1 @@
+import{t as e}from"./wheeler-protected-page.CLgruDot.js";e(`workspace`);
