@@ -1,0 +1,1 @@
+import{t as e}from"./wheeler-protected-page.Cb2vAnCx.js";e(`proposal`);
