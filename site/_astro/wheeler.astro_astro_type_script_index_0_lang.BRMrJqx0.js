@@ -1,0 +1,1 @@
+import{t as e}from"./wheeler-protected-page.CklwsqN0.js";e(`workspace`);
